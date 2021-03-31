@@ -1,4 +1,4 @@
-egular Colors
+# Regular Colors
 
 | Value    | Color  |
 | -------- | ------ |
