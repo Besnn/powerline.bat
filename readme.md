@@ -58,7 +58,7 @@
 | ----- | -------- |
 | \e[K  | No Color |
 
-# High Intensty
+# High Intensity
 
 | Value    | Color  |
 | -------- | ------ |
@@ -71,7 +71,7 @@
 | \e[0;96m | Cyan   |
 | \e[0;97m | White  |
 
-# Bold High Intensty
+# Bold High Intensity
 
 | Value    | Color  |
 | -------- | ------ |
@@ -84,7 +84,7 @@
 | \e[1;96m | Cyan   |
 | \e[1;97m | White  |
 
-# High Intensty backgrounds
+# High Intensity Backgrounds
 
 | Value     | Color  |
 | --------- | ------ |
